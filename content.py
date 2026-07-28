@@ -171,6 +171,9 @@ EXPERIENCE = [
 ]
 
 PROJECTS = [
+    {"title": "ML4H ICD-10 Mortality Coding",
+     "text": "Leakage-safe Spanish clinical NLP for ICD-10 underlying-cause coding from death-certificate free text, using hierarchy-aware models and candidate reranking to support garbage-code triage in Mexican mortality data.",
+     "tags": ["ML4H", "Clinical NLP", "ICD-10", "Health Data"]},
     {"title": "Economic News NLP",
      "text": "Spanish-language economic news as signals for economic analysis and inflation dynamics.",
      "tags": ["NLP", "Economics", "Research"]},
@@ -180,15 +183,6 @@ PROJECTS = [
     {"title": "LLM Ranking",
      "text": "Listwise LLM ranking for multimodal Spanish political headline classification (2026).",
      "tags": ["LLM", "Ranking", "NLP"]},
-    {"title": "Semantic Knowledge Engineering",
-     "text": "Vector databases, knowledge graphs, ontologies, embeddings, and RAG during Ph.D. thesis research.",
-     "tags": ["RAG", "Knowledge Graphs", "Ontology"]},
-    {"title": "Domain-Adapted Sentiment",
-     "text": "Transformer-based domain adaptation for Mexican tourism reviews (IberLEF 2023).",
-     "tags": ["Transformers", "Sentiment"]},
-    {"title": "Record Linkage",
-     "text": "Birth/death linkage, similarity metrics, vital statistics, and health-sector monitoring datasets.",
-     "tags": ["Record Linkage", "Health Data"]},
 ]
 
 # doi may be None
